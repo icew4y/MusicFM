@@ -1,0 +1,7 @@
+Executable : C:\Users\weilai\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\Project\MusicFM\app\.cxx\cmake\debug\x86
+native-lib
+jvmArgs : 
+

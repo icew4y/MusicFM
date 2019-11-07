@@ -1,0 +1,11 @@
+# ninja log v5
+1	534	594820090	CMakeFiles/native-lib.dir/native-lib.cpp.o	55c8d75e8258f9ec
+535	681	594820090	D:/Project/MusicFM/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	8ac6f7902851879a
+5	1543	594820510	CMakeFiles/native-lib.dir/native-lib.cpp.o	55c8d75e8258f9ec
+1543	2037	594820510	D:/Project/MusicFM/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	8ac6f7902851879a
+3	590	594820758	CMakeFiles/native-lib.dir/native-lib.cpp.o	55c8d75e8258f9ec
+590	725	594820759	D:/Project/MusicFM/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	8ac6f7902851879a
+3	983	594826500	CMakeFiles/native-lib.dir/native-lib.cpp.o	55c8d75e8258f9ec
+983	1462	594826501	D:/Project/MusicFM/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	8ac6f7902851879a
+3	485	594826626	CMakeFiles/native-lib.dir/native-lib.cpp.o	55c8d75e8258f9ec
+486	600	594826626	D:/Project/MusicFM/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	8ac6f7902851879a

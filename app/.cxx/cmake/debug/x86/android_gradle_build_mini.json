@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "C:\\Users\\weilai\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "D:\\Project\\MusicFM\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\weilai\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\weilai\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Project\\MusicFM\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\weilai\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Project\\MusicFM\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\Users\\weilai\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Project\\MusicFM\\app\\.cxx\\cmake\\debug\\x86\" native-lib",
+      "abi": "x86",
+      "output": "D:\\Project\\MusicFM\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libnative-lib.so"
+    }
+  }
+}

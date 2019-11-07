@@ -1,0 +1,5 @@
+# ninja log v5
+0	323	594806336	CMakeFiles/native-lib.dir/native-lib.cpp.o	480a67b94e19215e
+324	429	594806337	D:/Project/MusicFM/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	999b504d2b39269
+4	769	594819580	CMakeFiles/native-lib.dir/native-lib.cpp.o	480a67b94e19215e
+769	1165	594819581	D:/Project/MusicFM/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	999b504d2b39269
